@@ -52,7 +52,7 @@ GEM
     connection_pool (2.2.1)
     debug_inspector (0.0.2)
     erubis (2.7.0)
-    excon (0.54.0)
+    excon (0.85.0)
     execjs (2.7.0)
     ffi (1.9.14)
     globalid (0.3.7)
